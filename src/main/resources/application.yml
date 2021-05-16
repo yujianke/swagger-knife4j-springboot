@@ -1,0 +1,7 @@
+server:
+  port: 8085
+swagger:
+  enable:
+    true
+#swagger访问地址http://localhost:8085/swagger-ui.html
+#kni4j访问地址http://localhost:8085/doc.html
